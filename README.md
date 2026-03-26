@@ -40,8 +40,8 @@ These scripts are intended for internal operational use by authorized infrastruc
 
 ## Repository Structure
 ````
-.
-└── scripts/
+vantage
+└── powershell/
     ├── adlumin/
     │   ├── Invoke-AdluminRestart.ps1
     │   └── README.md
